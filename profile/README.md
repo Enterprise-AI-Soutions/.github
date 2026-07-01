@@ -4,11 +4,10 @@
 
 
 
-🙋‍♀️ A short introduction - 
-Enterprise-grade AI ▪ AI Evaluation ▪ LLM ▪ RAG ▪ AI Agents ▪ Knowledge Engineering    
-Building production-ready AI Solutions using modern open-source technologies.
+🙋‍♀️ Enterprise-grade AI ▪ AI Evaluation ▪ LLM ▪ RAG ▪ AI Agents ▪ Knowledge Engineering    
+   Building production-ready AI Solutions using modern open-source technologies.
 
-About 
+🙋‍♀️ About- 
 Enterprise AI Solutions is an open-source portfolio focused on building practical, production-ready AI applications.
 Projects emphasize: 
 - Enterprise RAG
