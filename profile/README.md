@@ -1,13 +1,13 @@
-## Hi there, this is Enterprise AI Solutions 👋
+## Hi there, this is Enterprise AI Solutions
 
 
 
 
 
-🙋‍♀️ Enterprise-grade AI ▪ AI Traning ▪ LLM Evaluation ▪ RAG ▪ AI Agents ▪ Knowledge Engineering    
+:dart: Enterprise-grade AI ▪ AI Traning ▪ LLM Evaluation ▪ RAG ▪ AI Agents ▪ Knowledge Engineering    
    Building production-ready AI Solutions using modern open-source technologies.
 
-🙋‍♀️ :rocket: About- 
+:dart: About- 
 Enterprise AI Solutions is an open-source portfolio focused on building practical, production-ready AI applications.
 Projects emphasize: 
 - Enterprise RAG
