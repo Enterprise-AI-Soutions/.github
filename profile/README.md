@@ -21,7 +21,7 @@ Projects emphasize:
 
 Technology Stack 
 🔽Evaluation 
-Label Studio
+-Label Studio
 RAGAS
 DeepEval
 Langfuse
