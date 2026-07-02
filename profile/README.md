@@ -19,7 +19,7 @@ Projects emphasize:
 - Knowledge Engineering
 - Hybrid search
 
-Technology Stack 
+Technology Stack:
 -Evaluation 
 -Label Studio
 -RAGAS
