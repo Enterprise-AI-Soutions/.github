@@ -37,7 +37,8 @@ Technology Stack:
 - n8n Automation
 
 🧙 About the Author (Lead Architect):
-15+ years of experience into Manufacturing, Supply Chain , ERP Specialist (SAP Manufacturing, Asset Management/Maintenance), AI Training, LLM Evaluation, Data Annotation, Knowledge Engineering, Agentic RAG, 
+15+ years of experience into Manufacturing, Supply Chain , ERP Software Specialist 
+(SAP Manufacturing, Asset Management/Maintenance), AI Training, LLM Evaluation, Data Annotation, Knowledge Engineering, Agentic RAG, 
 AI Agents, AI Workflow Automation.
 
 Contact - goodgentleman918@gmail.com
