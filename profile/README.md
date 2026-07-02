@@ -20,21 +20,21 @@ Projects emphasize:
 - Hybrid search
 
 Technology Stack:
--Evaluation 
--Label Studio
--RAGAS
--DeepEval
--Langfuse
--LLM Serving 
--Ollama
--vLLM
--llama.cpp
--Hugging Face
--RAG
--Llama-Index
--Agentic RAG
--AI Workflow
--n8n Automation
+- Evaluation 
+- Label Studio
+- RAGAS
+- DeepEval
+- Langfuse
+- LLM Serving 
+- Ollama
+- vLLM
+- llama.cpp
+- Hugging Face
+- RAG
+- Llama-Index
+- Agentic RAG
+- AI Workflow
+- n8n Automation
 
 🧙 About the Author (Lead Architect):
 15+ years of experience into Manufacturing, Supply Chain , ERP Specialist (SAP Manufacturing, Asset Management/Maintenance), AI Training, LLM Evaluation, Data Annotation, Knowledge Engineering, Agentic RAG, 
