@@ -20,7 +20,7 @@ Projects emphasize:
 - Hybrid search
 
 Technology Stack 
-:point_down:Evaluation 
+:arrow_down_small:Evaluation 
 Label Studio
 RAGAS
 DeepEval
