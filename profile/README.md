@@ -20,27 +20,25 @@ Projects emphasize:
 - Hybrid search
 
 Technology Stack:
-Evaluation - 
+(Evaluation) 
 - Label Studio
 - RAGAS
 - DeepEval
 - Langfuse
-LLM Serving - 
+(LLM Serving) 
 - Ollama
 - vLLM
 - llama.cpp
 - Hugging Face
-RAG - 
+(RAG)
 - Llama-Index
 - Agentic RAG
-AI Workflow -
+(AI Workflow)
 - n8n
 
 🧙 About the Author:
-15+ years of experience into Manufacturing, Supply Chain , ERP Specialist (SAP Asset Management/Maintenance)
-AI , LLM Training, Evaluation, Annotation
-Agentic RAG 
-AI Agents
+15+ years of experience into Manufacturing, Supply Chain , ERP Specialist (SAP Manufacturing, Asset Management/Maintenance), AI Training, LLM Evaluation, Data Annotation, Knowledge Engineering, Agentic RAG, 
+AI Agents, AI Workflow Automation.
 
 Contact - goodgentleman918@gmail.com
 
