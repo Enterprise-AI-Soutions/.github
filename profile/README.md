@@ -20,20 +20,20 @@ Projects emphasize:
 - Hybrid search
 
 Technology Stack 
-🔽Evaluation 
+-🔽Evaluation 
 -Label Studio
 RAGAS
 DeepEval
 Langfuse
-:point_down:LLM Serving 
+LLM Serving 
 Ollama
 vLLM
 llama.cpp
 Hugging Face
-:point_down:RAG
+RAG
 Llama-Index
 Agentic RAG
-:point_down:AI Workflow
+AI Workflow
 n8n
 
 🧙 About the Author (Lead Architect):
