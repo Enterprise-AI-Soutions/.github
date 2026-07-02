@@ -4,7 +4,7 @@
 
 
 
-🙋‍♀️ Enterprise-grade AI ▪ AI Evaluation ▪ LLM ▪ RAG ▪ AI Agents ▪ Knowledge Engineering    
+🙋‍♀️ Enterprise-grade AI ▪ AI Traning ▪ LLM Evaluation ▪ RAG ▪ AI Agents ▪ Knowledge Engineering    
    Building production-ready AI Solutions using modern open-source technologies.
 
 🙋‍♀️ :rocket: About- 
