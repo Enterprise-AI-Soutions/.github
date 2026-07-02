@@ -19,24 +19,24 @@ Projects emphasize:
 - Knowledge Engineering
 - Hybrid search
 
-Technology Stack:
+Technology Stack 
 (Evaluation) 
-- Label Studio
-- RAGAS
-- DeepEval
-- Langfuse
+Label Studio
+RAGAS
+DeepEval
+Langfuse
 (LLM Serving) 
-- Ollama
-- vLLM
-- llama.cpp
-- Hugging Face
+Ollama
+vLLM
+llama.cpp
+Hugging Face
 (RAG)
-- Llama-Index
-- Agentic RAG
+Llama-Index
+Agentic RAG
 (AI Workflow)
-- n8n
+n8n
 
-🧙 About the Author:
+🧙 About the Author (Lead Architect):
 15+ years of experience into Manufacturing, Supply Chain , ERP Specialist (SAP Manufacturing, Asset Management/Maintenance), AI Training, LLM Evaluation, Data Annotation, Knowledge Engineering, Agentic RAG, 
 AI Agents, AI Workflow Automation.
 
