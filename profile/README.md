@@ -4,15 +4,14 @@
 
 
 
-🎯Enterprise-grade AI ▪ AI Traning ▪ LLM Evaluation ▪ RAG ▪ AI Agents ▪ Knowledge Engineering Building
+🎯Enterprise-grade AI ▪ AI Automation ▪ AI Traning ▪ n8n ▪ Claude ▪ Airtable ▪ FastAPI ▪ Python ▪ AI Agents ▪ RAG
 production-ready AI Solutions using modern open-source technologies.
 
 🎯About- Enterprise AI Solutions is an open-source portfolio focused on building practical, production-ready AI applications.
 
 🎯 Projects emphasize: 
 - Enterprise RAG
-- LLM Evaluation
-- AI Observability
+- n8n Workflow Automation
 - AI Agents
 - AI Automation
 - Manufacturing & Supply Chain AI
@@ -20,26 +19,27 @@ production-ready AI Solutions using modern open-source technologies.
 - Hybrid search
 
 Technology Stack:
-- Evaluation 
-- Label Studio
-- RAGAS
-- DeepEval
-- Langfuse
-- LLM Serving 
+- n8n 
+- Claude
+- Python
+- FastAPI
+- Airtable
+- Google Workspace
+- Streamlit
+- Render
 - Ollama
 - vLLM
-- llama.cpp
+- API Integration
 - Hugging Face
 - RAG
 - Llama-Index
-- Agentic RAG
-- AI Workflow
-- n8n Automation
+- Langchain
+- CrewAI, Autogen
+- Agentic RAG 
+- Azure, GCP AI
 
 🧙 About the Author (Lead Architect):
-15+ years of experience into Manufacturing, Supply Chain , ERP Software Specialist 
-(SAP Manufacturing, Asset Management/Maintenance), AI Training, LLM Evaluation, Data Annotation, Knowledge Engineering, Agentic RAG, 
-AI Agents, AI Workflow Automation.
+15+ years of experience into Manufacturing, Maintenance, Supply Chain , CRM, ERP Software Specialist 
 
 Contact - goodgentleman918@gmail.com
 
